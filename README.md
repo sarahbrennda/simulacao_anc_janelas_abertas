@@ -1,0 +1,1 @@
+# simulacao_anc_janelas_abertas
